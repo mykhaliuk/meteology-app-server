@@ -1,0 +1,9 @@
+{
+  "name": "meteology-app-server",
+  "version": "1.0.0",
+  "description": "''",
+  "main": "index.js",
+  "repository": "https://github.com/mykhaliuk/meteology-app-server.git",
+  "author": "Mykhaliuk Vladimir <mykhaliuk@me.com>",
+  "license": "MIT"
+}
